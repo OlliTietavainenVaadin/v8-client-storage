@@ -1,0 +1,12 @@
+<module>
+
+	<!-- WS Compiler: manually edited -->
+
+	<!-- Inherit DefaultWidgetSet -->
+	<inherits name="com.vaadin.DefaultWidgetSet" /> 
+	<source path="shared"/>
+	<source path="client"/>
+	<!-- Widget styles in public -directory -->
+	<stylesheet src="v8-client-storage/styles.css"/>
+
+</module>
