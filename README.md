@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/clientstorage-add-on-for-vaadin-8)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/clientstorage-add-on-for-vaadin-8.svg)](https://vaadin.com/directory/component/clientstorage-add-on-for-vaadin-8)
+
 # ClientStorage Add-on for Vaadin 8
 
 ${ComponentClassName} is a Vaadin 8 upgrade of [https://github.com/wolfie/ClientStorage](https://github.com/wolfie/ClientStorage)
